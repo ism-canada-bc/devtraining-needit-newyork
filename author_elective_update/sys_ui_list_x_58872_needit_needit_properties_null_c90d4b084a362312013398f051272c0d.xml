@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="c90d4b084a362312013398f051272c0d" table="x_58872_needit_needit_properties" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>advanced_notice_days</element>
+            <list_id display_value="x_58872_needit_needit_properties" element="NULL" name="x_58872_needit_needit_properties" parent="NULL" relationship="NULL" sys_domain="c90d4b084a362312013398f051272c0d" view="Default view">fbf7d3604fea0010f25c4f00a310c793</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 22:36:05</sys_created_on>
+            <sys_id>bbf7d3604fea0010f25c4f00a310c795</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 22:36:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>auto_close_overdue</element>
+            <list_id display_value="x_58872_needit_needit_properties" element="NULL" name="x_58872_needit_needit_properties" parent="NULL" relationship="NULL" sys_domain="c90d4b084a362312013398f051272c0d" view="Default view">fbf7d3604fea0010f25c4f00a310c793</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 22:36:05</sys_created_on>
+            <sys_id>3bf7d3604fea0010f25c4f00a310c796</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 22:36:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_domain</element>
+            <list_id display_value="x_58872_needit_needit_properties" element="NULL" name="x_58872_needit_needit_properties" parent="NULL" relationship="NULL" sys_domain="c90d4b084a362312013398f051272c0d" view="Default view">fbf7d3604fea0010f25c4f00a310c793</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 22:36:05</sys_created_on>
+            <sys_id>bbf7d3604fea0010f25c4f00a310c796</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 22:36:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_58872_needit_needit_properties</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 22:36:05</sys_created_on>
+            <sys_domain>c90d4b084a362312013398f051272c0d</sys_domain>
+            <sys_domain_path>!!!/!!#/</sys_domain_path>
+            <sys_id>fbf7d3604fea0010f25c4f00a310c793</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needit_properties</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_list_x_58872_needit_needit_properties_null_c90d4b084a362312013398f051272c0d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 22:36:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>adc3f0cbdb9553c40e785d00cf9619ed</instance_id>
+        <instance_name>dev55737</instance_name>
+        <name>sys_ui_list_x_58872_needit_needit_properties_null_c90d4b084a362312013398f051272c0d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="c90d4b084a362312013398f051272c0d" table="x_58872_needit_needit_properties" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>advanced_notice_days</element><list_id display_value="x_58872_needit_needit_properties" element="NULL" name="x_58872_needit_needit_properties" parent="NULL" relationship="NULL" sys_domain="c90d4b084a362312013398f051272c0d" view="Default view">fbf7d3604fea0010f25c4f00a310c793</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 22:36:05</sys_created_on><sys_id>bbf7d3604fea0010f25c4f00a310c795</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 22:36:05</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>auto_close_overdue</element><list_id display_value="x_58872_needit_needit_properties" element="NULL" name="x_58872_needit_needit_properties" parent="NULL" relationship="NULL" sys_domain="c90d4b084a362312013398f051272c0d" view="Default view">fbf7d3604fea0010f25c4f00a310c793</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 22:36:05</sys_created_on><sys_id>3bf7d3604fea0010f25c4f00a310c796</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 22:36:05</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_domain</element><list_id display_value="x_58872_needit_needit_properties" element="NULL" name="x_58872_needit_needit_properties" parent="NULL" relationship="NULL" sys_domain="c90d4b084a362312013398f051272c0d" view="Default view">fbf7d3604fea0010f25c4f00a310c793</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 22:36:05</sys_created_on><sys_id>bbf7d3604fea0010f25c4f00a310c796</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 22:36:05</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_58872_needit_needit_properties</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-21 22:36:05</sys_created_on><sys_domain>c90d4b084a362312013398f051272c0d</sys_domain><sys_domain_path>!!!/!!#/</sys_domain_path><sys_id>fbf7d3604fea0010f25c4f00a310c793</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_needit_properties</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_list_x_58872_needit_needit_properties_null_c90d4b084a362312013398f051272c0d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-21 22:36:05</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-440199840</payload_hash>
+        <record_name>NeedIt Properties</record_name>
+        <reverted_from/>
+        <source>40ab5db54fe10010f25c4f00a310c738</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-21 22:36:05</sys_created_on>
+        <sys_id>f7f7d3604fea0010f25c4f00a310c798</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fca3fa3b90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-21 22:36:05</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>b7f7d3609dea0010348504d0dbd35598</update_guid>
+        <update_guid_history>b7f7d3609dea0010348504d0dbd35598:-440199840</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-21 23:02:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>8009095db4174f46b25a926fea3c3549</sys_id>
+        <sys_metadata>fbf7d3604fea0010f25c4f00a310c793</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit_properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">b5355f6c4faa0010f25c4f00a310c787</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_58872_needit_needit_properties_null_c90d4b084a362312013398f051272c0d</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_58872_needit_needit_properties_null_c90d4b084a362312013398f051272c0d">f7f7d3604fea0010f25c4f00a310c798</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-21 23:02:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
